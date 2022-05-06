@@ -1,0 +1,28 @@
+h3 {
+    font-size: 40px; 
+    font-family: Verdana, sans-serif;   
+}
+.fonte {
+    font-family: Arial, Helvetica, sans-serif;
+}   
+body {
+    background-color: #EDD3C4;
+}
+.idioma {
+    font-size: 15px;
+}
+.gestao {
+    font-size: 20px;
+}
+.trabalho {
+    font-size: 25px;
+}
+.conflitos {
+    font-size: 30px;
+}
+.vendas {
+    font-size: 35px;
+}
+.compras {
+    font-size: 40px;
+}
