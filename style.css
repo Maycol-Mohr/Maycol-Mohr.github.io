@@ -1,13 +1,26 @@
-h3 {
+.meu-nome {
     font-size: 40px; 
-    font-family: Verdana, sans-serif;   
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    padding-top: 15px;   
 }
-.fonte {
+.dados {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding-top: 20px;
+    font-size: 20px;
 }   
+
+.dados2 {
+    font-size: 30px;
+}
+
 body {
     background-color: #EDD3C4;
+    padding: 3%;
 }
+
+/*
 .idioma {
     font-size: 15px;
 }
@@ -25,4 +38,41 @@ body {
 }
 .compras {
     font-size: 40px;
+}
+*/
+
+#minha-foto {
+    float: left;
+    height: 380px;
+    width: 380px;
+    padding: 10px;
+    background-color: cornflowerblue;
+    margin-right: 20px;
+}
+
+.image-container {
+    height: 400px;
+}
+
+/*
+div {
+    border: 2px solid green;
+}
+*/
+
+/*
+ul li:nth-child(odd) {
+    background-color: aqua;
+}
+*/
+
+.container-main {
+    margin-bottom: 15px;
+    background-color: yellowgreen;
+    height: 600px;
+}
+
+.links-sites {
+    padding: 5px;
+    font-size: 20px;   
 }
